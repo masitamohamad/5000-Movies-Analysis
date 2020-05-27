@@ -54,7 +54,7 @@ We will divide the workflow so as to fairly distribute the work between team mem
   * **Can we determine what was popular by decade? Was there any genre resurgence?**
 
 * *GHuefner_Work.ipynb*: Grace
-  * **What's the relationship between runtime and pepularity?**
+  * **What's the relationship between runtime and popularity?**
 
 * *MMohamad_Project1.ipynb*: Masita
   * **Can we determine what was popular by production budget or genre?**
